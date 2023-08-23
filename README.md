@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Hi! I'm Eslam
 
-<!--
-**eslamdyab21/eslamdyab21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Communication and Electroics Engineering graduate from ```Alexandria University```, Former SWE @M.I.A Robotics. Passionate About _People_,_Space_, _Math_, _Communication theory_, and _Software Engineering_.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- You can visit [my website](https://eslam-dyab.vercel.app/) to find out more about me
+
+
+
+#### 💡 My Latest Project:
+
+- [ Autonomous mobile robots in Warehouse Systems ](https://github.com/eslamdyab21/AMRs-in-Warehouse-Systems)
+
+
+#### 📫 How to reach me: 
+
+eslamdyab22@gmail.com
