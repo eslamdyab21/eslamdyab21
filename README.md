@@ -8,6 +8,7 @@
 
 
 #### 💡 My Latest Projects:
+- [_PacketX Lakehouse_](https://github.com/eslamdyab21/PacketX-Lakehouse)
 - [_PacketX (Network Bandwidth Monitor)_](https://github.com/eslamdyab21/PacketX)
 - [_Ares Red Link (Mars-Earth Real-Time Communication Simulator)_](https://github.com/eslamdyab21/Ares-Red-Link)
 - [_SolarX Big Data Lakehouse_](https://github.com/eslamdyab21/SolarX-Lakehouse)
